@@ -1,0 +1,35 @@
+***crear dron:
+{
+"NumeroSerie":2,
+"Modelo":"peso ligero",
+"PesoLimite":500,
+"CapacidadBateria":100,
+"Estado":"INACTIVO"
+}
+************************************************
+
+***Listar dron:
+{
+"NumeroSerie":1
+}
+************************************************
+
+***cargar dron con medicamentos:
+{"NumeroSerie": 1,  
+ "Medicamentos": 
+    [
+      {
+      "Codigo": "C1_",
+      "Peso": 50,
+      "Nombre": "Nombre",
+      "Imagen": "Imagen"
+      },
+{
+      "Codigo": "C2_",
+      "Peso": 49,
+      "Nombre": "Nombre2",
+      "Imagen": "Imagen2"
+      }
+    ]
+ }
+************************************************

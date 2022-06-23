@@ -1,0 +1,9 @@
+C:\Users\basti\source\repos\Drones\Dato\bin\Debug\Dato.dll
+C:\Users\basti\source\repos\Drones\Dato\bin\Debug\Dato.pdb
+C:\Users\basti\source\repos\Drones\Dato\bin\Debug\Entidad.dll
+C:\Users\basti\source\repos\Drones\Dato\bin\Debug\Entidad.pdb
+C:\Users\basti\source\repos\Drones\Dato\obj\Debug\Dato.csproj.AssemblyReference.cache
+C:\Users\basti\source\repos\Drones\Dato\obj\Debug\Dato.csproj.CoreCompileInputs.cache
+C:\Users\basti\source\repos\Drones\Dato\obj\Debug\Dato.csproj.CopyComplete
+C:\Users\basti\source\repos\Drones\Dato\obj\Debug\Dato.dll
+C:\Users\basti\source\repos\Drones\Dato\obj\Debug\Dato.pdb

@@ -1,0 +1,6 @@
+C:\Users\basti\source\repos\Drones\Entidad\bin\Debug\Entidad.dll
+C:\Users\basti\source\repos\Drones\Entidad\bin\Debug\Entidad.pdb
+C:\Users\basti\source\repos\Drones\Entidad\obj\Debug\Entidad.csproj.AssemblyReference.cache
+C:\Users\basti\source\repos\Drones\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\basti\source\repos\Drones\Entidad\obj\Debug\Entidad.dll
+C:\Users\basti\source\repos\Drones\Entidad\obj\Debug\Entidad.pdb

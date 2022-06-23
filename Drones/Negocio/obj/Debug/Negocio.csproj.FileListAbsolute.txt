@@ -1,0 +1,13 @@
+C:\Users\basti\source\repos\Drones\Negocio\bin\Debug\Negocio.dll
+C:\Users\basti\source\repos\Drones\Negocio\bin\Debug\Negocio.pdb
+C:\Users\basti\source\repos\Drones\Negocio\bin\Debug\Dato.dll
+C:\Users\basti\source\repos\Drones\Negocio\bin\Debug\Entidad.dll
+C:\Users\basti\source\repos\Drones\Negocio\bin\Debug\Newtonsoft.Json.dll
+C:\Users\basti\source\repos\Drones\Negocio\bin\Debug\Dato.pdb
+C:\Users\basti\source\repos\Drones\Negocio\bin\Debug\Entidad.pdb
+C:\Users\basti\source\repos\Drones\Negocio\bin\Debug\Newtonsoft.Json.xml
+C:\Users\basti\source\repos\Drones\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\basti\source\repos\Drones\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\basti\source\repos\Drones\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\basti\source\repos\Drones\Negocio\obj\Debug\Negocio.dll
+C:\Users\basti\source\repos\Drones\Negocio\obj\Debug\Negocio.pdb
